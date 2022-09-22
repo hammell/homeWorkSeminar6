@@ -1,0 +1,15 @@
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\bin\Debug\net6.0\probe2.exe
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\bin\Debug\net6.0\probe2.deps.json
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\bin\Debug\net6.0\probe2.runtimeconfig.json
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\bin\Debug\net6.0\probe2.dll
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\bin\Debug\net6.0\probe2.pdb
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\obj\Debug\net6.0\probe2.csproj.AssemblyReference.cache
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\obj\Debug\net6.0\probe2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\obj\Debug\net6.0\probe2.AssemblyInfoInputs.cache
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\obj\Debug\net6.0\probe2.AssemblyInfo.cs
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\obj\Debug\net6.0\probe2.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\obj\Debug\net6.0\probe2.dll
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\obj\Debug\net6.0\refint\probe2.dll
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\obj\Debug\net6.0\probe2.pdb
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\obj\Debug\net6.0\probe2.genruntimeconfig.cache
+C:\Users\Александр\Desktop\Обучение\HW_S_C#\C#HomeWork6\Новая папка\probe2\obj\Debug\net6.0\ref\probe2.dll
